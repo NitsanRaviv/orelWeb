@@ -1,0 +1,2764 @@
+.main-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.main-page .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.main-page .overlap {
+  height: 785px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.main-page .backgroundhero {
+  height: 608px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.main-page .portfolio-of-UI-desi {
+  color: #5d86a7;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0.3px;
+  line-height: 21px;
+  position: absolute;
+  top: 258px;
+  width: 558px;
+}
+
+.main-page .p {
+  color: transparent;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: absolute;
+  top: 350px;
+  width: 438px;
+}
+
+.main-page .text-wrapper {
+  color: #5d86a7;
+}
+
+.main-page .span {
+  color: #9251f7;
+}
+
+.main-page .logo-linkedin {
+  display: block;
+  height: 19px;
+  left: 1341px;
+  position: absolute;
+  top: 63px;
+  width: 19px;
+}
+
+.main-page .text-wrapper-2 {
+  color: #9251f7;
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 1293px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  width: 21px;
+}
+
+.main-page .agile-user-interface {
+  color: #25323c;
+  font-family: "Roboto", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 81px;
+  letter-spacing: -2px;
+  line-height: 70px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.main-page .home {
+  background-color: #ffffff;
+  border-radius: 13.15px;
+  box-shadow: var(--shadows-black30);
+  height: 234px;
+  left: 911px;
+  overflow: hidden;
+  position: absolute;
+  top: 243px;
+  width: 278px;
+}
+
+.main-page .hola-andrew-listo-p {
+  color: #25323c;
+  font-family: "Roboto", Helvetica;
+  font-size: 15.8px;
+  font-weight: 700;
+  left: 77px;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  position: absolute;
+  top: 145px;
+  white-space: nowrap;
+}
+
+.main-page .desaf-os {
+  color: #859fb3;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 169px;
+  white-space: nowrap;
+}
+
+.main-page .overlap-group {
+  height: 96px;
+  left: 82px;
+  position: absolute;
+  top: 36px;
+  width: 84px;
+}
+
+.main-page .photo-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/97ed6f68fbfab55c9775962d3244e664/img/whatsapp-image-2022-04-10-at-17-01-45-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 42.09px;
+  box-shadow: 0px 10px 20px #003a6c21;
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.main-page .component-points-m {
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgb(225.95, 208.62, 252.88) 0%,
+    rgb(230.66, 253.94, 237.96) 64.06%,
+    rgb(213.52, 219.06, 247.56) 100%
+  );
+  border-radius: 65.77px;
+  box-shadow: 0px 5px 20px #fa766033;
+  display: inline-flex;
+  gap: 6.58px;
+  left: 17px;
+  padding: 5.92px 9.86px;
+  position: absolute;
+  top: 71px;
+}
+
+.main-page .element {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 10.5px;
+  font-weight: 700;
+  height: 13.15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.66px;
+  position: relative;
+  text-align: center;
+  width: 30.25px;
+}
+
+.main-page .frame {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadows-black30);
+  display: flex;
+  gap: 10px;
+  height: 61px;
+  left: 1173px;
+  overflow: hidden;
+  padding: 16px 24px;
+  position: absolute;
+  top: 367px;
+  width: 186px;
+}
+
+.main-page .group {
+  height: 21px;
+  position: relative;
+  width: 21px;
+}
+
+.main-page .text-wrapper-3 {
+  color: #5d86a7;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.48px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.main-page .frame-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadows-black30);
+  display: flex;
+  gap: 10px;
+  height: 61px;
+  left: 862px;
+  overflow: hidden;
+  padding: 16px 24px;
+  position: absolute;
+  top: 161px;
+  width: 169px;
+}
+
+.main-page .img {
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+
+.main-page .frame-3 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadows-black30);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  left: 1053px;
+  overflow: hidden;
+  padding: 16px 24px;
+  position: absolute;
+  top: 199px;
+  width: 202px;
+}
+
+.main-page .group-2 {
+  height: 21px;
+  position: relative;
+  width: 12.19px;
+}
+
+.main-page .frame-4 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadows-black30);
+  display: flex;
+  gap: 8px;
+  height: 62px;
+  left: 741px;
+  overflow: hidden;
+  padding: 16px 24px;
+  position: absolute;
+  top: 340px;
+  width: 215px;
+}
+
+.main-page .group-3 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.main-page .group-4 {
+  height: 33px;
+  left: 81px;
+  position: absolute;
+  top: 55px;
+  width: 305px;
+}
+
+.main-page .logo {
+  color: #19192e;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: -0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.main-page .pill {
+  align-items: center;
+  background-color: #9251f71a;
+  border-radius: 179.47px;
+  display: flex;
+  gap: 18px;
+  height: 33px;
+  left: 154px;
+  padding: 6px 14px;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.main-page .state {
+  color: #9251f7;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.main-page .thumbnail {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: var(--shadows-black30);
+  height: 229px;
+  left: 81px;
+  overflow: hidden;
+  position: absolute;
+  top: 556px;
+  width: 410px;
+}
+.hoverDiv{
+  transition: all 300ms ease;
+}
+.hoverDiv:hover{
+  transform: translateY(-30px);
+}
+
+.main-page .figma {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0px 4px 13.77px #003a6c0f;
+  height: 28px;
+  left: 24px;
+  position: absolute;
+  top: 186px;
+  width: 28px;
+}
+
+.main-page .figma-logo {
+  height: 14px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.main-page .mobile-native {
+  color: #19192e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0.32px;
+  line-height: 19.2px;
+  position: absolute;
+  top: 62px;
+  width: 149px;
+}
+
+.main-page .mobile-native-2 {
+  color: #859fb3;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0.28px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 89px;
+  width: 149px;
+}
+
+.main-page .mobile-native-3 {
+  color: var(--greengreen-positive-texts-green300);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0.24px;
+  line-height: 13.2px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.main-page .overlap-2 {
+  height: 229px;
+  left: 169px;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.main-page .mask-group {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.main-page .mask-group-2 {
+  height: 175px;
+  left: 63px;
+  position: absolute;
+  top: 54px;
+  width: 178px;
+}
+
+.main-page .thumbnail-2 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: var(--shadows-black30);
+  height: 229px;
+  left: 515px;
+  overflow: hidden;
+  position: absolute;
+  top: 556px;
+  width: 410px;
+}
+
+.main-page .overlap-3 {
+  height: 217px;
+  left: 181px;
+  position: absolute;
+  top: 0;
+  width: 229px;
+}
+
+.main-page .mask-group-3 {
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 215px;
+}
+
+.main-page .mask-group-4 {
+  height: 182px;
+  left: 54px;
+  position: absolute;
+  top: 35px;
+  width: 175px;
+}
+
+.main-page .overlap-wrapper {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: var(--shadows-black30);
+  height: 229px;
+  left: 949px;
+  overflow: hidden;
+  position: absolute;
+  top: 556px;
+  width: 411px;
+}
+
+.main-page .overlap-4 {
+  height: 531px;
+  left: 11px;
+  position: relative;
+  width: 391px;
+}
+
+.main-page .figma-2 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 56px;
+}
+
+.main-page .overlap-5 {
+  height: 531px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 382px;
+}
+
+.main-page .mobile-native-4 {
+  color: #859fb3;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.28px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 108px;
+  width: 149px;
+}
+
+.main-page .aside-wrapper {
+  height: 531px;
+  left: 135px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.main-page .aside {
+  height: 531px;
+}
+
+.main-page .overlap-6 {
+  height: 531px;
+  position: relative;
+  width: 255px;
+}
+
+.main-page .container {
+  background-color: #ffffff;
+  height: 531px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.main-page .overlap-7 {
+  height: 221px;
+  left: 72px;
+  position: absolute;
+  top: -146px;
+  width: 157px;
+}
+
+.main-page .rectangle {
+  background-color: var(--statusinfo);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 106px;
+  left: 48px;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.main-page .rectangle-2 {
+  background-color: var(--statussuccess);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 121px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 100px;
+  width: 108px;
+}
+
+.main-page .rectangle-3 {
+  background-color: var(--primarydefault);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 66px;
+  left: 98px;
+  opacity: 0.1;
+  position: absolute;
+  top: 152px;
+  width: 59px;
+}
+
+.main-page .rectangle-4 {
+  background-color: var(--secondarydefault);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 106px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: -194px;
+  width: 66px;
+}
+
+.main-page .overlap-8 {
+  height: 245px;
+  left: 15px;
+  position: absolute;
+  top: 481px;
+  width: 221px;
+}
+
+.main-page .overlap-group-2 {
+  height: 175px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 189px;
+}
+
+.main-page .rectangle-5 {
+  background-color: var(--statusinfo);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 100px;
+  left: 72px;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.main-page .rectangle-6 {
+  background-color: var(--statussuccess);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 113px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 62px;
+  width: 78px;
+}
+
+.main-page .rectangle-7 {
+  background-color: var(--primarydefault);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 113px;
+  left: 119px;
+  opacity: 0.1;
+  position: absolute;
+  top: 132px;
+  width: 102px;
+}
+
+.main-page .rectangle-8 {
+  background-color: var(--secondarydefault);
+  border-radius: 100px;
+  box-shadow: var(--blur-large);
+  filter: blur(64px);
+  height: 216px;
+  left: 97px;
+  opacity: 0.1;
+  position: absolute;
+  top: 115px;
+  width: 117px;
+}
+
+.main-page .container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 531px;
+  left: 0;
+  padding: 24px;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.main-page .header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.main-page .div-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  margin-right: -8px;
+  position: relative;
+  width: 140px;
+}
+
+.main-page .text {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.main-page .divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.main-page .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.main-page .row {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.main-page .text-2 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.main-page .mobile-native-5 {
+  color: #19192e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: 19.2px;
+  position: absolute;
+  top: 62px;
+  width: 315px;
+}
+
+.main-page .mobile-native-6 {
+  color: #9251f7;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0.24px;
+  line-height: 13.2px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.main-page .footer {
+  background-color: transparent;
+  height: 137px;
+  left: 0;
+  position: absolute;
+  top: 902px;
+  width: 1440px;
+}
+
+.main-page .group-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/97ed6f68fbfab55c9775962d3244e664/img/rectangle-363.svg);
+  background-size: 100% 100%;
+  height: 122px;
+  width: 1440px;
+}
+
+.main-page .group-5 {
+  height: 80px;
+  left: 646px;
+  position: relative;
+  top: 22px;
+  width: 150px;
+}
+
+.main-page .galarchenko {
+  color: #516cf7;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0.24px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.main-page .group-6 {
+  height: 21px;
+  left: 49px;
+  position: absolute;
+  top: 59px;
+  width: 52px;
+}
+
+.main-page .logo-linkedin-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/97ed6f68fbfab55c9775962d3244e664/img/fill-1.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 35px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.main-page .text-wrapper-4 {
+  color: #516cf7;
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+
+/* first break point */
+
+@media only screen and (max-width: 1395px)
+{
+  .main-page .logo-linkedin {
+    top: 60px;
+    left: 1250px;
+  }
+  .main-page .text-wrapper-2 {
+    left: 1200px;
+  }
+  .main-page .home{
+    left: 861px;
+  }
+  .main-page .frame {
+    left: 1123px;
+  }
+  .main-page .frame-2{
+    left: 762px;
+  }
+  .main-page .frame-3 {
+    left: 1003px;
+  }
+  .main-page .frame-4 {
+    left: 691px;
+  }
+  
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper{
+    width: 385px;
+  }
+}
+
+/* second breakpoint */
+@media only screen and (max-width: 1350px)
+{
+
+  .main-page .home{
+    top: 597px;
+    left: 524px;
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 786px;
+  }
+  .main-page .frame-2{
+    top: 515px;
+    left: 425px;
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 666px;
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 354px;
+  }
+  
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper{
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper{
+    left: 919px;
+  }
+  .main-page .thumbnail-2{
+    left: 485px;
+  }
+  .main-page .thumbnail{
+    left: 51px;
+  }
+  .main-page .div{
+    height: 1400px;
+  }
+  .main-page .footer
+  {
+    top: 1256px;
+  }
+  .main-page .agile-user-interface
+  {
+    left: 575px;
+  }
+  .main-page .portfolio-of-UI-desi{
+    left: 411px;
+    width: 600px;
+  }
+  .main-page .p{
+    left: 575px;
+  }
+}
+
+/* third breakpoint */
+@media only screen and (max-width: 1310px) {
+  .main-page .logo-linkedin {
+    left: 1150px;
+  }
+  .main-page .text-wrapper-2 {
+    left: 1100px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 494px; /* Adjusted from 524px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 756px; /* Adjusted from 786px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 395px; /* Adjusted from 425px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 636px; /* Adjusted from 666px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 324px; /* Adjusted from 354px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    left: 889px; /* Adjusted from 919px */
+  }
+  .main-page .thumbnail-2 {
+    left: 455px; /* Adjusted from 485px */
+  }
+  .main-page .thumbnail {
+    left: 21px; /* Adjusted from 51px */
+  }
+  .main-page .div {
+    height: 1400px;
+  }
+  .main-page .footer {
+    top: 1256px;
+  }
+  .main-page .agile-user-interface {
+    left: 545px; /* Adjusted from 575px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 381px; /* Adjusted from 411px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 545px; /* Adjusted from 575px */
+  }
+  .main-page .group-5 {
+    left: 580px;
+  }
+}
+
+/* fourth breakpoint */
+@media only screen and (max-width: 1285px) {
+  .main-page .logo-linkedin {
+    left: 1125px; /* Adjusted from 1150px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1075px; /* Adjusted from 1100px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 469px; /* Adjusted from 494px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 731px; /* Adjusted from 756px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 370px; /* Adjusted from 395px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 611px; /* Adjusted from 636px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 299px; /* Adjusted from 324px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 415px; /* Adjusted from 889px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 415px; /* Adjusted from 455px */
+  }
+  .main-page .thumbnail {
+    left: 415px; /* Adjusted from 21px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 520px; /* Adjusted from 545px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 356px; /* Adjusted from 381px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 520px; /* Adjusted from 545px */
+  }
+  .main-page .group-5 {
+    left: 555px; /* Adjusted from 580px */
+  }
+}
+
+/* fifth breakpoint */
+@media only screen and (max-width: 1270px) {
+  .main-page .logo-linkedin {
+    left: 1110px; /* Adjusted from 1125px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1060px; /* Adjusted from 1075px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 454px; /* Adjusted from 469px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 716px; /* Adjusted from 731px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 355px; /* Adjusted from 370px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 596px; /* Adjusted from 611px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 284px; /* Adjusted from 299px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 400px; /* Adjusted from 415px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 400px; /* Adjusted from 415px */
+  }
+  .main-page .thumbnail {
+    left: 400px; /* Adjusted from 415px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 505px; /* Adjusted from 520px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 341px; /* Adjusted from 356px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 505px; /* Adjusted from 520px */
+  }
+  .main-page .group-5 {
+    left: 530px; /* Adjusted from 555px */
+  }
+}
+
+/* sixth breakpoint */
+@media only screen and (max-width: 1170px) {
+  .main-page .logo-linkedin {
+    left: 1085px; /* Adjusted from 1070px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1035px; /* Adjusted from 1020px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 429px; /* Adjusted from 414px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 691px; /* Adjusted from 676px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 330px; /* Adjusted from 315px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 571px; /* Adjusted from 556px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 259px; /* Adjusted from 244px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 375px; /* Adjusted from 360px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 375px; /* Adjusted from 360px */
+  }
+  .main-page .thumbnail {
+    left: 375px; /* Adjusted from 360px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 480px; /* Adjusted from 465px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 316px; /* Adjusted from 301px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 480px; /* Adjusted from 465px */
+  }
+  .main-page .group-5 {
+    left: 470px; /* Adjusted from 500px */
+  }
+  .main-page .group-4 {
+    left: 71px; /* Adjusted from 500px */
+  }
+}
+
+
+
+/* seventh breakpoint */
+@media only screen and (max-width: 1140px) {
+  .main-page .logo-linkedin {
+    left: 1075px; /* Adjusted from 1085px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1025px; /* Adjusted from 1035px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 419px; /* Adjusted from 429px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 681px; /* Adjusted from 691px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 320px; /* Adjusted from 330px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 561px; /* Adjusted from 571px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 249px; /* Adjusted from 259px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 365px; /* Adjusted from 375px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 365px; /* Adjusted from 375px */
+  }
+  .main-page .thumbnail {
+    left: 365px; /* Adjusted from 375px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 470px; /* Adjusted from 480px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 306px; /* Adjusted from 316px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 470px; /* Adjusted from 480px */
+  }
+  .main-page .group-5 {
+    left: 460px; /* Adjusted from 470px */
+  }
+  .main-page .group-4 {
+    left: 61px; /* Adjusted from 71px */
+  }
+}
+
+
+/* eigth breakpoint */
+@media only screen and (max-width: 1125px) {
+  .main-page .logo-linkedin {
+    left: 1065px; /* Adjusted from 1075px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1015px; /* Adjusted from 1025px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 409px; /* Adjusted from 419px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 671px; /* Adjusted from 681px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 310px; /* Adjusted from 320px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 551px; /* Adjusted from 561px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 239px; /* Adjusted from 249px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 355px; /* Adjusted from 365px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 355px; /* Adjusted from 365px */
+  }
+  .main-page .thumbnail {
+    left: 355px; /* Adjusted from 365px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 460px; /* Adjusted from 470px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 296px; /* Adjusted from 306px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 460px; /* Adjusted from 470px */
+  }
+  .main-page .group-5 {
+    left: 450px; /* Adjusted from 460px */
+  }
+  .main-page .group-4 {
+    left: 51px; /* Adjusted from 61px */
+  }
+}
+
+/* ninth breakpoint */
+@media only screen and (max-width: 1110px) {
+  .main-page .logo-linkedin {
+    left: 1055px; /* Adjusted from 1065px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 1005px; /* Adjusted from 1015px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 399px; /* Adjusted from 409px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 661px; /* Adjusted from 671px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 300px; /* Adjusted from 310px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 541px; /* Adjusted from 551px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 229px; /* Adjusted from 239px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 345px; /* Adjusted from 355px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 345px; /* Adjusted from 355px */
+  }
+  .main-page .thumbnail {
+    left: 345px; /* Adjusted from 355px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 450px; /* Adjusted from 460px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 286px; /* Adjusted from 296px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 450px; /* Adjusted from 460px */
+  }
+  .main-page .group-5 {
+    left: 440px; /* Adjusted from 450px */
+  }
+  .main-page .group-4 {
+    left: 41px; /* Adjusted from 51px */
+  }
+}
+
+
+/* 10th break point */
+@media only screen and (max-width: 1105px) {
+  .main-page .logo-linkedin {
+    left: 1045px; /* Adjusted from 1055px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 995px; /* Adjusted from 1005px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 389px; /* Adjusted from 399px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 651px; /* Adjusted from 661px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 290px; /* Adjusted from 300px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 531px; /* Adjusted from 541px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 219px; /* Adjusted from 229px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 335px; /* Adjusted from 345px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 335px; /* Adjusted from 345px */
+  }
+  .main-page .thumbnail {
+    left: 335px; /* Adjusted from 345px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 440px; /* Adjusted from 450px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 276px; /* Adjusted from 286px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 440px; /* Adjusted from 450px */
+  }
+  .main-page .group-5 {
+    left: 430px; /* Adjusted from 440px */
+  }
+  .main-page .group-4 {
+    left: 31px; /* Adjusted from 41px */
+  }
+}
+
+/* 11th break point */
+@media only screen and (max-width: 1090px) {
+  .main-page .logo-linkedin {
+    left: 1035px; /* Adjusted from 1045px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 985px; /* Adjusted from 995px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 379px; /* Adjusted from 389px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 641px; /* Adjusted from 651px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 280px; /* Adjusted from 290px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 521px; /* Adjusted from 531px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 209px; /* Adjusted from 219px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 325px; /* Adjusted from 335px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 325px; /* Adjusted from 335px */
+  }
+  .main-page .thumbnail {
+    left: 325px; /* Adjusted from 335px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 430px; /* Adjusted from 440px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 266px; /* Adjusted from 276px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 430px; /* Adjusted from 440px */
+  }
+  .main-page .group-5 {
+    left: 420px; /* Adjusted from 430px */
+  }
+  .main-page .group-4 {
+    left: 21px; /* Adjusted from 31px */
+  }
+}
+
+/* 12th break point */
+@media only screen and (max-width: 1085px) {
+  .main-page .logo-linkedin {
+    left: 1015px; /* Adjusted from 1035px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 965px; /* Adjusted from 985px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 359px; /* Adjusted from 379px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 621px; /* Adjusted from 641px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 260px; /* Adjusted from 280px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 501px; /* Adjusted from 521px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 189px; /* Adjusted from 209px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 305px; /* Adjusted from 325px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 305px; /* Adjusted from 325px */
+  }
+  .main-page .thumbnail {
+    left: 305px; /* Adjusted from 325px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 410px; /* Adjusted from 430px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 246px; /* Adjusted from 266px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 410px; /* Adjusted from 430px */
+  }
+  .main-page .group-5 {
+    left: 400px; /* Adjusted from 420px */
+  }
+  .main-page .group-4 {
+    left: 1px; /* Adjusted from 21px */
+  }
+}
+
+/* 13th break point */
+@media only screen and (max-width: 1060px) {
+  .main-page .logo-linkedin {
+    left: 995px; /* Adjusted from 1015px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 945px; /* Adjusted from 965px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 339px; /* Adjusted from 359px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 601px; /* Adjusted from 621px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 240px; /* Adjusted from 260px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 481px; /* Adjusted from 501px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 169px; /* Adjusted from 189px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 285px; /* Adjusted from 305px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 285px; /* Adjusted from 305px */
+  }
+  .main-page .thumbnail {
+    left: 285px; /* Adjusted from 305px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 390px; /* Adjusted from 410px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 226px; /* Adjusted from 246px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 390px; /* Adjusted from 410px */
+  }
+  .main-page .group-5 {
+    left: 380px; /* Adjusted from 400px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from 1px */
+  }
+}
+
+/* 14th break point */
+@media only screen and (max-width: 1040px) {
+  .main-page .logo-linkedin {
+    left: 905px; /* Adjusted from 995px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 855px; /* Adjusted from 945px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 319px; /* Adjusted from 339px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 581px; /* Adjusted from 601px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 220px; /* Adjusted from 240px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 461px; /* Adjusted from 481px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 149px; /* Adjusted from 169px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 265px; /* Adjusted from 285px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 265px; /* Adjusted from 285px */
+  }
+  .main-page .thumbnail {
+    left: 265px; /* Adjusted from 285px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 370px; /* Adjusted from 390px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 206px; /* Adjusted from 226px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 370px; /* Adjusted from 390px */
+  }
+  .main-page .group-5 {
+    left: 360px; /* Adjusted from 380px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -19px */
+  }
+}
+
+/* 15th break point */
+@media only screen and (max-width: 970px) {
+  .main-page .logo-linkedin {
+    left: 870px; /* Adjusted from 975px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 820px; /* Adjusted from 925px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 304px; /* Adjusted from 319px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 566px; /* Adjusted from 581px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 205px; /* Adjusted from 220px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 446px; /* Adjusted from 461px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 134px; /* Adjusted from 149px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 250px; /* Adjusted from 265px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 250px; /* Adjusted from 265px */
+  }
+  .main-page .thumbnail {
+    left: 250px; /* Adjusted from 265px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 355px; /* Adjusted from 370px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 191px; /* Adjusted from 206px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 355px; /* Adjusted from 370px */
+  }
+  .main-page .group-5 {
+    left: 345px; /* Adjusted from 360px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -39px */
+  }
+}
+
+/* 16th break point */
+@media only screen and (max-width: 915px) {
+  .main-page .logo-linkedin {
+    left: 835px; /* Adjusted from 870px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 785px; /* Adjusted from 820px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 289px; /* Adjusted from 304px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 551px; /* Adjusted from 566px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 190px; /* Adjusted from 205px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 431px; /* Adjusted from 446px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 119px; /* Adjusted from 134px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 235px; /* Adjusted from 250px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 235px; /* Adjusted from 250px */
+  }
+  .main-page .thumbnail {
+    left: 235px; /* Adjusted from 250px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 340px; /* Adjusted from 355px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 176px; /* Adjusted from 191px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 340px; /* Adjusted from 355px */
+  }
+  .main-page .group-5 {
+    left: 330px; /* Adjusted from 345px */
+  }
+  .main-page .group-4 {
+    left: 10px; /* Adjusted from 25px */
+  }
+}
+
+/* 17th break point */
+@media only screen and (max-width: 877px) {
+  .main-page .logo-linkedin {
+    left: 750px; /* Adjusted from 855px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 700px; /* Adjusted from 805px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 264px; /* Adjusted from 289px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 526px; /* Adjusted from 551px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 165px; /* Adjusted from 190px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 406px; /* Adjusted from 431px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 94px; /* Adjusted from 119px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 210px; /* Adjusted from 235px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 210px; /* Adjusted from 235px */
+  }
+  .main-page .thumbnail {
+    left: 210px; /* Adjusted from 235px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 315px; /* Adjusted from 340px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 151px; /* Adjusted from 176px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 315px; /* Adjusted from 340px */
+  }
+  .main-page .group-5 {
+    left: 305px; /* Adjusted from 330px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from 10px */
+  }
+}
+
+
+/* 18th break point */
+@media only screen and (max-width: 805px) {
+  .main-page .logo-linkedin {
+    left: 700px; /* Adjusted from 830px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 650px; /* Adjusted from 780px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 239px; /* Adjusted from 264px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 501px; /* Adjusted from 526px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 140px; /* Adjusted from 165px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 381px; /* Adjusted from 406px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 69px; /* Adjusted from 94px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 185px; /* Adjusted from 210px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 185px; /* Adjusted from 210px */
+  }
+  .main-page .thumbnail {
+    left: 185px; /* Adjusted from 210px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 290px; /* Adjusted from 315px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 126px; /* Adjusted from 151px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 290px; /* Adjusted from 315px */
+  }
+  .main-page .group-5 {
+    left: 280px; /* Adjusted from 305px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -15px */
+  }
+}
+
+/* 19th break point */
+@media only screen and (max-width: 760px) {
+  .main-page .logo-linkedin {
+    left: 650px; /* Adjusted from 805px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 600px; /* Adjusted from 755px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 209px; /* Adjusted from 239px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 471px; /* Adjusted from 501px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 110px; /* Adjusted from 140px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 351px; /* Adjusted from 381px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 39px; /* Adjusted from 69px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 155px; /* Adjusted from 185px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 155px; /* Adjusted from 185px */
+  }
+  .main-page .thumbnail {
+    left: 155px; /* Adjusted from 185px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 260px; /* Adjusted from 290px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 96px; /* Adjusted from 126px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 260px; /* Adjusted from 290px */
+  }
+  .main-page .group-5 {
+    left: 250px; /* Adjusted from 280px */
+  }
+  .main-page .group-4 {
+    left: 20px; /* Adjusted from -40px */
+  }
+}
+
+/* 20th break point */
+@media only screen and (max-width: 720px) {
+  .main-page .logo-linkedin {
+    left: 600px; /* Adjusted from 775px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 550px; /* Adjusted from 725px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 174px; /* Adjusted from 209px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 436px; /* Adjusted from 471px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 75px; /* Adjusted from 110px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 316px; /* Adjusted from 351px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 4px; /* Adjusted from 39px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 120px; /* Adjusted from 155px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 120px; /* Adjusted from 155px */
+  }
+  .main-page .thumbnail {
+    left: 120px; /* Adjusted from 155px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 225px; /* Adjusted from 260px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 61px; /* Adjusted from 96px */
+    width: 600px;
+  }
+  .main-page .p {
+    left: 225px; /* Adjusted from 260px */
+  }
+  .main-page .group-5 {
+    left: 215px; /* Adjusted from 250px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -70px */
+  }
+}
+
+/* 21th breakpoint */
+@media only screen and (max-width: 670px) {
+  .main-page .logo-linkedin {
+    left: 570px; /* Adjusted from 740px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 520px; /* Adjusted from 690px */
+  }
+  .main-page .home {
+    top: 597px;
+    left: 154px; /* Adjusted from 174px */
+  }
+  .main-page .frame {
+    top: 721px;
+    left: 416px; /* Adjusted from 436px */
+  }
+  .main-page .frame-2 {
+    top: 515px;
+    left: 55px; /* Adjusted from 75px */
+  }
+  .main-page .frame-3 {
+    top: 553px;
+    left: 296px; /* Adjusted from 316px */
+  }
+  .main-page .frame-4 {
+    top: 694px;
+    left: 25px; /* Adjusted from 4px */
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1410px;
+    left: 100px; /* Adjusted from 120px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1160px;
+    left: 100px; /* Adjusted from 120px */
+  }
+  .main-page .thumbnail {
+    left: 100px; /* Adjusted from 120px */
+  }
+  .main-page .div {
+    height: 1850px;
+  }
+  .main-page .footer {
+    top: 1700px;
+  }
+  .main-page .agile-user-interface {
+    left: 195px; /* Adjusted from 225px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 130px; /* Adjusted from 61px */
+    width: 365px;
+  }
+  .main-page .p {
+    top: 410px;
+    left: 195px; /* Adjusted from 225px */
+  }
+  .main-page .group-5 {
+    left: 195px; /* Adjusted from 215px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -105px */
+  }
+}
+
+/* 22nd break point */
+@media only screen and (max-width: 620px) {
+  .main-page .logo-linkedin {
+    left: 550px; /* Adjusted from 740px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 500px; /* Adjusted from 690px */
+  }
+  .main-page .text-wrapper-3{
+    font-size: 13px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 144px; /* Adjusted from 174px */
+  }
+  .main-page .frame {
+    top: 864px;
+    left: 286px; /* Adjusted from 436px */
+  }
+  .main-page .frame-2 {
+    top: 525px;
+    left: 100px; /* Adjusted from 75px */
+  }
+  .main-page .frame-3 {
+    top: 525px;
+    left: 286px; /* Adjusted from 316px */
+  }
+  .main-page .frame-4 {
+    top: 864px;
+    left: 100px; /* Adjusted from 4px */
+    width: 169px;
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1460px;
+    left: 90px; /* Adjusted from 120px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1210px;
+    left: 90px; /* Adjusted from 120px */
+  }
+  .main-page .thumbnail {
+    top: 960px;
+    left: 90px; /* Adjusted from 120px */
+  }
+  .main-page .div {
+    height: 1900px;
+  }
+  .main-page .footer {
+    top: 1750px;
+  }
+  .main-page .agile-user-interface {
+    left: 195px; /* Adjusted from 225px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 130px; /* Adjusted from 61px */
+    width: 365px;
+  }
+  .main-page .p {
+    left: 195px; /* Adjusted from 225px */
+  }
+  .main-page .group-5 {
+    left: 185px; /* Adjusted from 215px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -105px */
+  }
+}
+
+
+/* 23rd break point */
+@media only screen and (max-width: 575px) {
+  .main-page .logo-linkedin {
+    left: 480px; /* Adjusted from 550px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 430px; /* Adjusted from 500px */
+  }
+  .main-page .text-wrapper-3 {
+    font-size: 13px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 114px; /* Adjusted from 144px */
+  }
+  .main-page .frame {
+    top: 864px;
+    left: 256px; /* Adjusted from 286px */
+  }
+  .main-page .frame-2 {
+    top: 525px;
+    left: 70px; /* Adjusted from 100px */
+  }
+  .main-page .frame-3 {
+    top: 525px;
+    left: 256px; /* Adjusted from 286px */
+  }
+  .main-page .frame-4 {
+    top: 864px;
+    left: 70px; /* Adjusted from 100px */
+    width: 169px;
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1460px;
+    left: 85px; /* Adjusted from 90px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1210px;
+    left: 85px; /* Adjusted from 90px */
+  }
+  .main-page .thumbnail {
+    top: 960px;
+    left: 85px; /* Adjusted from 90px */
+  }
+  .main-page .div {
+    height: 1900px;
+  }
+  .main-page .footer {
+    top: 1750px;
+  }
+  .main-page .agile-user-interface {
+    left: 165px; /* Adjusted from 195px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 100px; /* Adjusted from 130px */
+    width: 365px;
+  }
+  .main-page .p {
+    left: 165px; /* Adjusted from 195px */
+  }
+  .main-page .group-5 {
+    left: 175px; /* Adjusted from 185px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from 25px */
+  }
+}
+
+/* 24th */
+@media only screen and (max-width: 525px) {
+  .main-page .logo-linkedin {
+    left: 430px; /* Adjusted from 520px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 380px; /* Adjusted from 470px */
+  }
+  .main-page .text-wrapper-3 {
+    font-size: 13px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 94px; /* Adjusted from 114px */
+  }
+  .main-page .frame {
+    top: 864px;
+    left: 236px; /* Adjusted from 256px */
+  }
+  .main-page .frame-2 {
+    top: 525px;
+    left: 50px; /* Adjusted from 70px */
+  }
+  .main-page .frame-3 {
+    top: 525px;
+    left: 236px; /* Adjusted from 256px */
+  }
+  .main-page .frame-4 {
+    top: 864px;
+    left: 50px; /* Adjusted from 70px */
+    width: 169px;
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1460px;
+    left: 55px; /* Adjusted from 60px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1210px;
+    left: 55px; /* Adjusted from 60px */
+  }
+  .main-page .thumbnail {
+    top: 960px;
+    left: 55px; /* Adjusted from 60px */
+  }
+  .main-page .div {
+    height: 1900px;
+  }
+  .main-page .footer {
+    top: 1750px;
+  }
+  .main-page .agile-user-interface {
+    left: 145px; /* Adjusted from 165px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 80px; /* Adjusted from 100px */
+    width: 365px;
+  }
+  .main-page .p {
+    left: 145px; /* Adjusted from 165px */
+  }
+  .main-page .group-5 {
+    left: 165px; /* Adjusted from 155px */
+  }
+  .main-page .group-4 {
+    left: 25px; /* Adjusted from -5px */
+  }
+  .main-page .pill {
+    width: 130px;
+    left: 138px;
+  }
+  
+.main-page .state{
+  font-size: 11px;
+}
+
+}
+
+
+/* 26th */
+@media only screen and (max-width: 485px) {
+  .main-page .logo-linkedin {
+    left: 400px; /* Adjusted from 430px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 350px; /* Adjusted from 380px */
+  }
+  .main-page .text-wrapper-3 {
+    font-size: 13px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 79px; /* Adjusted from 94px */
+  }
+  .main-page .frame {
+    top: 864px;
+    left: 221px; /* Adjusted from 236px */
+  }
+  .main-page .frame-2 {
+    top: 525px;
+    left: 35px; /* Adjusted from 50px */
+  }
+  .main-page .frame-3 {
+    top: 525px;
+    left: 221px; /* Adjusted from 236px */
+  }
+  .main-page .frame-4 {
+    top: 864px;
+    left: 35px; /* Adjusted from 50px */
+    width: 169px;
+  }
+
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    top: 910px;
+    width: 365px;
+  }
+
+  .main-page .overlap-wrapper {
+    top: 1460px;
+    left: 40px; /* Adjusted from 55px */
+  }
+  .main-page .thumbnail-2 {
+    top: 1210px;
+    left: 40px; /* Adjusted from 55px */
+  }
+  .main-page .thumbnail {
+    top: 960px;
+    left: 40px; /* Adjusted from 55px */
+  }
+  .main-page .div {
+    height: 1900px;
+  }
+  .main-page .footer {
+    top: 1750px;
+  }
+  .main-page .agile-user-interface {
+    left: 130px; /* Adjusted from 145px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 55px; /* Adjusted from 80px */
+    width: 365px;
+    text-align: center;
+  }
+  .main-page .p {
+    left: 130px; /* Adjusted from 145px */
+  }
+  .main-page .group-5 {
+    left: 150px; /* Adjusted from 145px */
+  }
+  .main-page .group-4 {
+    left: 20px; /* Adjusted from 25px */
+  }
+  .main-page .pill {
+    width: 130px;
+    left: 123px; /* Adjusted from 138px */
+    background-color: transparent;
+  }
+  .main-page .state {
+    font-size: 11px;
+  }
+}
+
+@media only  screen and (max-width: 450px) {
+  .main-page .logo-linkedin {
+    left: 400px; /* Adjusted from 430px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 350px; /* Adjusted from 380px */
+  }
+  .main-page .agile-user-interface {
+    left: 120px; /* Adjusted from 145px */
+  }
+  .main-page .p {
+    left: 120px; /* Adjusted from 145px */
+  }
+}
+
+@media only  screen and (max-width: 435px) {
+  .main-page .logo-linkedin {
+    left: 380px; /* Adjusted from 430px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 330px; /* Adjusted from 380px */
+  }
+  .main-page .agile-user-interface {
+    left: 110px; /* Adjusted from 145px */
+  }
+  .main-page .p {
+    left: 110px; /* Adjusted from 145px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 45px; /* Adjusted from 80px */
+    width: 365px;
+    text-align: center;
+  }
+}
+
+@media only  screen and (max-width: 420px) {
+  .main-page .logo-linkedin {
+    left: 360px; /* Adjusted from 430px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 320px; /* Adjusted from 380px */
+  }
+  .main-page .agile-user-interface {
+    left: 90px; /* Adjusted from 145px */
+  }
+  .main-page .p {
+    left: 90px; /* Adjusted from 145px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 35px; /* Adjusted from 80px */
+    width: 365px;
+    text-align: center;
+  }
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    left: 30px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 69px; /* Adjusted from 94px */
+  }
+  .main-page .frame-3,
+  .main-page .frame {
+    left: 211px; /* Adjusted from 236px */
+  }
+  .main-page .frame-2 ,
+  .main-page .frame-4 {
+    left: 25px; /* Adjusted from 50px */
+  }
+}
+
+@media only  screen and (max-width: 410px) {
+  .main-page .agile-user-interface {
+    left: 80px; /* Adjusted from 145px */
+  }
+  .main-page .p {
+    left: 80px; /* Adjusted from 145px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 25px; /* Adjusted from 80px */
+  }
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    left: 20px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 59px; /* Adjusted from 94px */
+  }
+  .main-page .frame-3,
+  .main-page .frame {
+    left: 201px; /* Adjusted from 236px */
+  }
+  .main-page .frame-2 ,
+  .main-page .frame-4 {
+    left: 15px; /* Adjusted from 50px */
+  }
+  .main-page .group-5 {
+    left: 140px; /* Adjusted from 145px */
+  }
+  .main-page .group-4 {
+    left: 15px; /* Adjusted from 25px */
+  }
+}
+
+@media only  screen and (max-width: 400px) {
+  .main-page .logo-linkedin {
+    left: 340px; /* Adjusted from 430px */
+  }
+  .main-page .text-wrapper-2 {
+    left: 300px; /* Adjusted from 380px */
+  }
+  .main-page .agile-user-interface {
+    left: 55px; /* Adjusted from 145px */
+  }
+  .main-page .p {
+    left: 55px; /* Adjusted from 145px */
+  }
+  .main-page .portfolio-of-UI-desi {
+    left: 6px; /* Adjusted from 80px */
+  }
+  .main-page .thumbnail, 
+  .main-page .thumbnail-2,
+  .main-page .overlap-wrapper {
+    left: 5px;
+    width: 355px;
+  }
+  .main-page .home {
+    top: 597px;
+    left: 35px; /* Adjusted from 94px */
+  }
+  .main-page .frame-3,
+  .main-page .frame {
+    left: 185px; /* Adjusted from 236px */
+  }
+  .main-page .frame-2 ,
+  .main-page .frame-4 {
+    left: 6px; /* Adjusted from 50px */
+  }
+  .main-page .group-5 {
+    left: 125px; /* Adjusted from 145px */
+  }
+  .main-page .group-4 {
+    left: 10px; /* Adjusted from 25px */
+  }
+}
