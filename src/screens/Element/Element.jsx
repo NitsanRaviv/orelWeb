@@ -19,14 +19,6 @@ export const Element = () => {
             clearly articulate my design vision and collaborate effectively with
             cross-functional teams.
           </p>
-          <p className="p">
-            <span className="text-wrapper">
-              I’m looking for new opportunities
-              <br />
-              Currently I’m working at{" "}
-            </span>
-            <span className="span">Authomize</span>
-          </p>
           <a
             href="https://www.linkedin.com/in/orel-shmueli/"
             rel="noopener noreferrer"

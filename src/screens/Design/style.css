@@ -822,7 +822,7 @@ a {
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 0;
+  top: 2px;
   white-space: nowrap;
 }
 
