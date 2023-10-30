@@ -99,14 +99,14 @@ export const Design = () => {
                 <div className="group-3">
                   <div className="frame-5">
                     <p className="what-people-are-sayi-2">
-                      <span className="span">t</span>
+                      <span className="span">T</span>
                       <span className="span">
                         he platform: <br />
                       </span>
-                      <span className="text-wrapper-2">a</span>
+                      <span className="text-wrapper-2">Entity</span>
                       <span className="text-wrapper-2">
                         {" "}
-                        few pages designs{" "}
+                        page, dashboard, access graph{" "}
                       </span>
                     </p>
                     <div className="frame-6">
@@ -584,8 +584,8 @@ export const Design = () => {
                 </video>
               </div>
               <div className="section-for-carousel Design-mar-left">
-                <div className="Design-blue-h lil-mar">the Platform</div>
-                <div className="Design-newBlack-h">a few pages designs</div>
+                <div className="Design-blue-h lil-mar">The platform:</div>
+                <div className="Design-newBlack-h">Entity page, dashboard, access graph</div>
                 <div className="Design-carousel">
                   <Carousel
                     className="carousel"

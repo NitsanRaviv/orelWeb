@@ -319,7 +319,6 @@ a {
   line-height: 42px;
   margin-top: -1px;
   position: relative;
-  width: 498.94px;
 }
 
 .design .span {
@@ -331,6 +330,7 @@ a {
 
   font-size: 32px;
   letter-spacing: -1.28px;
+  
 }
 
 .design .frame-6 {
@@ -358,11 +358,11 @@ a {
 
 .identity-overview {
   height: 475px;
-  object-fit: contain;
+  /* object-fit: contain; */
   width: 100%;
-  object-fit: cover;
-  position: relative;
-  background-repeat: no-repeat;
+  /* object-fit: cover; */
+  /* position: relative; */
+  /* background-repeat: no-repeat; */
 }
 
 .design .group-4 {
