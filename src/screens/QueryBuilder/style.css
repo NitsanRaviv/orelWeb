@@ -302,7 +302,6 @@ a {
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 420px;
 }
 
 .query-builder .group-5 {
@@ -669,7 +668,6 @@ a {
 }
 
 .query-builder .screen-shot-2 {
-  height: 240px;
   left: 437px;
   object-fit: cover;
   position: absolute;
@@ -860,7 +858,7 @@ a {
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 450px;
+  /* width: 450px; */
 }
 
 .query-builder .group-26 {
@@ -1776,7 +1774,6 @@ a {
 .in-first, .in-second
 {
   object-fit: cover;
-  width: 420px;
   height: 273px;
 }
 
@@ -2092,7 +2089,6 @@ strong
   }
   .in-first, .in-second {
     object-fit: cover;
-    width: 370px;
     height: 240px;
   }
   .num
@@ -2157,7 +2153,6 @@ strong
   }
   .in-first, .in-second {
     object-fit: cover;
-    width: 430px;
     height: 300px;
   }
   .inside-flexx {
@@ -2359,7 +2354,6 @@ strong
 }
 .in-first, .in-second
 {
-  width: 370px;
   height: 260px;
 }
 }
@@ -2449,7 +2443,6 @@ strong
   }
   .in-first, .in-second
   {
-    width: 350px;
     height: 263px;
   }
   .usability-image

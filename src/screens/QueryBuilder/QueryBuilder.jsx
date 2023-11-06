@@ -104,7 +104,6 @@ export const QueryBuilder = () => {
               <div className="what-people-are-sayi-2">Personas</div>
               <div className="group-4">
                 <img className="img" alt="Group" src="/img/group-4252.png" />
-                <img className="group-5" alt="Group" src="/img/group-41.png" />
               </div>
             </div>
             <div className="group-6">
@@ -311,11 +310,6 @@ export const QueryBuilder = () => {
                 alt="Screen shot"
                 src="/img/screen-shot-2023-01-03-at-12-13.png"
               />
-              <img
-                className="screen-shot-3"
-                alt="Screen shot"
-                src="/img/screen-shot-2023-01-03-at-12-16-1.png"
-              />
               <div className="group-18">
                 <div className="group-19">
                   <div className="group-wrapper">
@@ -377,11 +371,6 @@ export const QueryBuilder = () => {
                   </div>
                 </div>
               </div>
-              <img
-                className="screen-shot-4"
-                alt="Screen shot"
-                src="/img/screen-shot-2023-01-03-at-12-14.png"
-              />
             </div>
             <div className="group-23">
               <p className="propuesta-de-concept-13">
@@ -430,21 +419,11 @@ export const QueryBuilder = () => {
                   />
                   <div className="group-26">
                     <div className="overlap-group-4">
-                      <img
+                      {/* <img
                         className="screen-shot-6"
                         alt="Screen shot"
                         src="/img/screen-shot-2023-01-03-at-12-06-1.png"
-                      />
-                      <img
-                        className="screen-shot-7"
-                        alt="Screen shot"
-                        src="/img/screen-shot-2023-01-03-at-12-21.png"
-                      />
-                      <img
-                        className="screen-shot-8"
-                        alt="Screen shot"
-                        src="/img/screen-shot-2023-01-03-at-12-21-1.png"
-                      />
+                      /> */}
                     </div>
                   </div>
                 </div>
@@ -650,13 +629,6 @@ export const QueryBuilder = () => {
                       src="/img/group-4252.png"
                     />
                   </div>
-                  <div className="second-img">
-                    <img
-                      class="in-second"
-                      alt="Group"
-                      src="/img/group-41.png"
-                    />
-                  </div>
                 </div>
               </div>
               <div className="sixth-divison mar-left">
@@ -815,11 +787,11 @@ export const QueryBuilder = () => {
                     <div className="blue-h">sketching and planning</div>
                     <div className="inside-flexx">
                       <div className="sk-img-1">
-                        <img
+                         <img
                           src="/img/screen-shot-2023-01-03-at-11-38-1.png"
                           alt="first-sketch"
                           className="sk"
-                        />
+                        /> 
                       </div>
                       <div className="inside-col-flex width-for-para">
                         <div className="black-head">Behavior</div>
@@ -911,25 +883,6 @@ export const QueryBuilder = () => {
                       </div>
                       <div className="col-flex">
                         <div className="col-1">
-                          <img
-                            className="im-1"
-                            src="/img/screen-shot-2023-01-03-at-12-06-1.png"
-                            alt="design image"
-                          />
-                        </div>
-                        <div className="col-2">
-                          <img
-                            className="im-2"
-                            src="/img/screen-shot-2023-01-03-at-12-21-1.png"
-                            alt="design image"
-                          />
-                        </div>
-                        <div className="col-3">
-                          <img
-                            className="im-3"
-                            src="/img/screen-shot-2023-01-03-at-12-21.png"
-                            alt="design image"
-                          />
                         </div>
                       </div>
                     </div>
